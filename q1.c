@@ -7,6 +7,7 @@ struct student
 }s;
 void main()
 {
+    printf("\n menu");
     printf("\n enter roll number of the student :");
     scanf("%d",&s.roll_no);
     printf("\n enter name of the student :");
